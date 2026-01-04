@@ -1,0 +1,61 @@
+# ===========================================
+# R / RStudio
+# ===========================================
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# ===========================================
+# SECRETS - NE JAMAIS COMMITER
+# ===========================================
+.Renviron
+.Rprofile.local
+*.pem
+*.key
+credentials.json
+secrets.json
+*token*
+.httr-oauth
+
+# ===========================================
+# Environnements Python/R
+# ===========================================
+renv/library/
+renv/staging/
+renv/cellar/
+renv/local/
+renv/cache/
+renv/python/
+.virtualenvs/
+venv/
+__pycache__/
+*.pyc
+
+# ===========================================
+# Donnees volumineuses (optionnel - a adapter)
+# ===========================================
+# data/*.csv
+# outputs/robyn/*/pareto_alldecomp_matrix.csv
+# outputs/robyn/*/pareto_media_transform_matrix.csv
+
+# ===========================================
+# Fichiers temporaires / OS
+# ===========================================
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.log
+
+# ===========================================
+# IDE
+# ===========================================
+.vscode/
+.idea/
+
+# ===========================================
+# Shinyapps.io deployment
+# ===========================================
+rsconnect/

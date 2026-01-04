@@ -1,0 +1,34 @@
+=== RÉSUMÉ DU DATASET ===
+
+Dimensions: 3051 x 13 
+Période: 2018-01-06 à 2020-02-29 
+
+Colonnes:
+ [1] "Division"              "Calendar_Week"         "Paid_Views"            "Organic_Views"        
+ [5] "Google_Impressions"    "Email_Impressions"     "Facebook_Impressions"  "Affiliate_Impressions"
+ [9] "Overall_Views"         "Sales"                 "date"                  "week"                 
+[13] "year"                 
+
+
+Statistiques:
+   Division         Calendar_Week        Paid_Views     Organic_Views      Google_Impressions
+ Length:3051        Length:3051        Min.   :     1   Min.   :     1.0   Min.   :       7  
+ Class :character   Class :character   1st Qu.:   537   1st Qu.:   712.5   1st Qu.:  169828  
+ Mode  :character   Mode  :character   Median :  2699   Median :  4110.0   Median :  490531  
+                                       Mean   : 15094   Mean   : 13355.7   Mean   :  886174  
+                                       3rd Qu.: 17358   3rd Qu.: 16230.5   3rd Qu.: 1022622  
+                                       Max.   :518190   Max.   :270453.0   Max.   :17150439  
+ Email_Impressions Facebook_Impressions Affiliate_Impressions Overall_Views        Sales        
+ Min.   :  40894   Min.   :     29      Min.   :   910        Min.   :     2   Min.   :  15436  
+ 1st Qu.: 378497   1st Qu.:  57074      1st Qu.:  9127        1st Qu.:   747   1st Qu.:  73394  
+ Median : 590971   Median : 127523      Median : 16658        Median :  7879   Median : 113573  
+ Mean   : 760509   Mean   : 269127      Mean   : 22911        Mean   : 27981   Mean   : 185901  
+ 3rd Qu.: 962247   3rd Qu.: 283505      3rd Qu.: 27486        3rd Qu.: 34112   3rd Qu.: 202976  
+ Max.   :7317730   Max.   :7558435      Max.   :175791        Max.   :635057   Max.   :3575430  
+      date                 week            year     
+ Min.   :2018-01-06   Min.   : 1.00   Min.   :2018  
+ 1st Qu.:2018-07-21   1st Qu.:10.00   1st Qu.:2018  
+ Median :2019-02-02   Median :24.00   Median :2019  
+ Mean   :2019-02-02   Mean   :24.79   Mean   :2019  
+ 3rd Qu.:2019-08-17   3rd Qu.:38.00   3rd Qu.:2019  
+ Max.   :2020-02-29   Max.   :52.00   Max.   :2020  
