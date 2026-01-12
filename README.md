@@ -1,6 +1,6 @@
 # Marketing Mix Modeling avec Robyn
 
-[![Shiny](https://img.shields.io/badge/Shiny-Dashboard-blue)](https://your-app.shinyapps.io/mmm-robyn)
+[![Shiny](https://img.shields.io/badge/Shiny-Dashboard-blue)](https://arnaudraulet.shinyapps.io/mmm-robyn/)
 [![R](https://img.shields.io/badge/R-4.0+-276DC3?logo=r)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -12,7 +12,7 @@ Ce projet répond à cette question en utilisant le Marketing Mix Modeling (MMM)
 
 ## 📊 Dashboard interactif
 
-👉 **[Accéder au dashboard](https://marketing-data-pipeline-demo.streamlit.app/)** *(lien à mettre à jour après déploiement)*
+👉 **[Accéder au dashboard](https://arnaudraulet.shinyapps.io/mmm-robyn/)**
 
 Le dashboard permet de :
 - Visualiser la contribution de chaque canal aux ventes
