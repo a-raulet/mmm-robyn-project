@@ -12,7 +12,7 @@ Ce projet répond à cette question en utilisant le Marketing Mix Modeling (MMM)
 
 ## 📊 Dashboard interactif
 
-👉 **[Accéder au dashboard](https://your-app.shinyapps.io/mmm-robyn)** *(lien à mettre à jour après déploiement)*
+👉 **[Accéder au dashboard](https://marketing-data-pipeline-demo.streamlit.app/)** *(lien à mettre à jour après déploiement)*
 
 Le dashboard permet de :
 - Visualiser la contribution de chaque canal aux ventes
@@ -110,7 +110,7 @@ Affiliate       | XX%            | XX%             | X.XX
 
 ```r
 # 1. Cloner le repo
-git clone https://github.com/your-username/mmm-robyn-project.git
+git clone https://github.com/a-raulet/mmm-robyn-project.git
 cd mmm-robyn-project
 
 # 2. Installer les dépendances R
@@ -144,9 +144,9 @@ shiny::runApp("app")
 
 **Arnaud** - Data Science Portfolio
 
-- 🌐 [Portfolio](https://your-portfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
+- 🌐 [Portfolio](https://arnaudraulet.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arnaud-raulet-13308310/)
+- 🐙 [GitHub](https://github.com/a-raulet)
 
 ---
 
